@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+</head>
+<body>
+<div style="width:100%;height:200px;background:red;">
+<div style="width:50%;height:200px;background:blue;float:left "></div>
+<div style="width:50%;height:200px;background:black;float:left;"></div>
+</div>
+<div style="width:100%;height:200px;background:purple">
+<div style="width:33%;height:200px;background:pink;float:left;"></div>
+<div style="width:33%;height:200px;background:blue;float:left;"></div>
+<div style="width:34%;height:200px;background:green;float:left;"></div>
+</div>
+<div style="width:100%;height:200px;background:purple;">
+<div style="width:33%;height:200px;background:green;float:left;"></div>
+<div style="width:33%;height:200px;background:pink;float:left;"></div>
+<div style="width:34%;height:200px;background:blue;float:left;"></div>
+</div>
+<div style="width:100%;height:300px;background:pink;float:left;">
+<div style="width:20%;height:200px;background:indigo;float:left;margin-left:20px;margin-top:50px;"><img style="height:200px;width:200px;"src="12"/></div>
+<div style="width:20%;height:200px;background:red;float:left;margin-left:20px;margin-top:50px;"></div>
+<div style="width:20%;height:200px;background:green;float:left;margin-left:20px;margin-top:50px;"></div>
+<div style="width:20%;height:200px;background:black;float:left;margin-left:20px;margin-top:50px;">
+</div>
+
+
+
+
+</div>
+
+
+</body>
+</html
